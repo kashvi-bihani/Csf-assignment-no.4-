@@ -10,6 +10,7 @@ This is my personal portfolio website featuring my profile picture, projects and
 1. Download or clone the repository  
 2. Open the project folder  
 3. Run the necessary commands
+
 ## Screenshots
 ![Screenshot 1](Screenshot(107).png)
 
